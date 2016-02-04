@@ -1,6 +1,9 @@
 ShuffleDB NG
 ============
 
+**There is a newer fork of this project with a lot of improvements.
+Check it out [here](https://github.com/nims11/IPod-Shuffle-4g).**
+
 Shuffle-db-ng is a project to allow users to manage their iPod shuffle without the need to install iTunes. It runs in python, and can handle playlists and create voiceover tracks.
 
 It is designed to perform similarly to the shuffle-db project hosted on sourceforge, which only works for 2g or older shuffle devices.
